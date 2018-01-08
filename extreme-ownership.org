@@ -1,0 +1,38 @@
+Leaders package intent and belief. 
+
+- Decentralized Command
+  + No leader can control everything themselves. THere is too much complexity.
+  + Ideal teams consist of 4-5 people with a clear designated leader.
+  + That leader must understand the overall mission and the ultimate goal, the Commander's Intent.
+  + Each leaders must understand not just what to do, but why they are doing it.
+  + Junior leaders must understand what is within their decision-making authority
+  + Tactical leaders must understand the strategic mission and the commander's intent.
+  + Orders must be simple, clear, concise that ca nbe understood easily by everyone in the chain of command
+  + When subordinates fully understand the purpose of the mission, how it ties into strategic goals, and
+    what impact it has, they can lead, even in the absenc of explicit orders.
+  + Junior leaders must know that the boss will back them up even if they make a decision taht may not result in 
+    the best outcome as long as the decision was made in an effort to achieve the strategic objective. 
+- Plan
+  + Identify clear directives, then pass those onto the team
+  + Giving frontline troops ownership of even a small piece gives them buy-in, and helps them understand 
+    the reasons behind the plan
+  + Once a detailed plan has been developed, it must be briefed to the entire team, participants and supporting elements. 
+  + Brief is a forum for discussion and clarification from even the most junior personnel.
+  + Every member participating must understand the strategic mission, the Commander's Intent, the specific 
+    team mission, and their individual roles within that mission.
+  + The most important part of a brief is explaining Commander's Intent. Everyone must know and understand
+    the purpose and end state of the mission. They can then theoretically act without further guidance.
+- Leading Up and Down the Chain
+  + Leading Down the Chain: It's crucial for frontline leaders to understand how their piece contributes to the bigger picture,
+    and an understanding of their team mate's jobs.
+  + This rquires stepping out of the office with subordinates, and engaging in face-to-face conversations to understand their 
+    particular challenges and debug their Commander's Intent.
+  + Leading Up the Chain: Your job is to convey your situation up the chain to obtain the decisions and support necessary to 
+    successfully complete your mission.
+  + Leadership must always present a united front to troops. A public display of disagreement undermines the authority of 
+    leaders at all levels.
+  + At the end of the day, once a debate is over and the boss has made a decision - even one you argued against -
+    you must execute the plans as if they were your own.
+  + If support and decisions from above are not in your favour, it's your fault for not delivering the appropriate
+    context and awareness. 
+  + Breaking the us-versus-them mentality against leadership is key to effective organizations. 
